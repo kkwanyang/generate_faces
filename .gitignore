@@ -1,0 +1,8 @@
+#ignore
+*.pyc
+.ipynb_checkpoints/*
+data/*
+
+
+#exclude from ignore
+!data/.gitkeep
